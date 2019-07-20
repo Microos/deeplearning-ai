@@ -2,7 +2,7 @@
 
 
 
-# Assigments
+# Assignments
 ## C1-NeuralNetworksandDeepLearning
 - Week2.1: Python Basics with Numpy ([ipynb](./Assigments/C1-NeuralNetworksandDeepLearning/Week%202/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb) |  [pdf](./Assigments/C1-NeuralNetworksandDeepLearning/Week%202/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.pdf))
 - Week2.2: Logistic Regression with a Neural Network mindset ([ipynb](./Assigments/C1-NeuralNetworksandDeepLearning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb) |  [pdf](./Assigments/C1-NeuralNetworksandDeepLearning/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.pdf))
